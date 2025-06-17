@@ -3,6 +3,9 @@
 ## 📝 Project Description
 Google Drive download report automation project using “googleapis” with NodeJS + Typescript
 
+## ⚠️ Disclaimer
+This project was initially created for personal use. The published code is meant to serve as a reference and may require modifications to fit specific requirements.
+
 ## 📖 Documentation
 
 - [🇧🇷 Portuguese Readme](README-PT.md)
