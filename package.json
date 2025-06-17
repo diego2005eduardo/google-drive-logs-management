@@ -1,0 +1,26 @@
+{
+  "name": "google-drive-logs-management",
+  "version": "1.0.0",
+  "main": "dist/core/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/core/index.js",
+    "dev": "ts-node src/core/index.ts",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "github.com/diego2005eduardo",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "google-auth-library": "^10.1.0",
+    "googleapis": "^150.0.1"
+  }
+}
